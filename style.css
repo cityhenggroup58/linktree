@@ -19,6 +19,10 @@
     src: url(./assets/font/casanova.ttf);
 }
 
+.accent-color-text {
+    color: var(--accentColor)
+}
+
 body {
     margin: 0;
     padding: 0;
